@@ -2,9 +2,9 @@ import React from 'react';
 
 function App() {
   return (
-   <h1>
+   <p>
      Being Stockholm
-   </h1>
+   </p>
   );
 }
 

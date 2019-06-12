@@ -23,12 +23,12 @@ yarn-error.log*
 # semantic
 
 /src/semantic/dist/*
-/src/semantic/gulpfile.js
-/src/semantic/definitions
-/src/semantic/semantic.less
-/src/semantic/theme.less
-/src/semantic/themes
-/src/semantic/site
-/src/tasks
+/src/semantic/src/gulpfile.js
+/src/semantic/src/definitions
+/src/semantic/src/semantic.less
+/src/semantic/src/theme.less
+/src/semantic/src/themes
+/src/semantic/src/site
+/src/semantic/tasks
 !/src/semantic/dist/semantic.min.css
 !/src/semantic/dist/semantic.min.js
