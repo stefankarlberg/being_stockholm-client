@@ -35,7 +35,3 @@ yarn-error.log*
 /src/semantic/tasks
 !/src/semantic/dist/semantic.min.css
 !/src/semantic/dist/semantic.min.js
-
-# Api keys
-
-.env
