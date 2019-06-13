@@ -1,0 +1,9 @@
+/*!
+ * # Semantic UI undefined - Breadcrumb
+ * http://github.com/semantic-org/semantic-ui/
+ *
+ *
+ * Released under the MIT license
+ * http://opensource.org/licenses/MIT
+ *
+ */.ui.breadcrumb{line-height:1;display:inline-block;margin:0 0;vertical-align:middle}.ui.breadcrumb:first-child{margin-top:0}.ui.breadcrumb:last-child{margin-bottom:0}.ui.breadcrumb .divider{display:inline-block;opacity:.7;margin:0 .00140845rem 0;font-size:.9286385em;color:rgba(0,0,0,.4);vertical-align:baseline}.ui.breadcrumb a{color:#4183c4}.ui.breadcrumb a:hover{color:#1e70bf}.ui.breadcrumb .icon.divider{font-size:.857277em;vertical-align:baseline}.ui.breadcrumb a.section{cursor:pointer}.ui.breadcrumb .section{display:inline-block;margin:0;padding:0}.ui.breadcrumb.segment{display:inline-block;padding:.78591549em 1em}.ui.breadcrumb .active.section{font-weight:700}.ui.mini.breadcrumb{font-size:.78591549rem}.ui.tiny.breadcrumb{font-size:.857277rem}.ui.small.breadcrumb{font-size:.9286385rem}.ui.breadcrumb{font-size:1rem}.ui.large.breadcrumb{font-size:1.142723rem}.ui.big.breadcrumb{font-size:1.28591549rem}.ui.huge.breadcrumb{font-size:1.4286385rem}.ui.massive.breadcrumb{font-size:1.71408451rem}

@@ -1,0 +1,6 @@
+/*******************************
+     User Global Variables
+*******************************/
+@emSize: 2130px;
+@fontSize: 2130px;
+@fontName: 'Arial';
