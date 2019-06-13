@@ -22,3 +22,16 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# semantic
+
+/src/semantic/dist/*
+/src/semantic/src/gulpfile.js
+/src/semantic/src/definitions
+/src/semantic/src/semantic.less
+/src/semantic/src/theme.less
+/src/semantic/src/themes
+/src/semantic/src/site
+/src/semantic/tasks
+!/src/semantic/dist/semantic.min.css
+!/src/semantic/dist/semantic.min.js
