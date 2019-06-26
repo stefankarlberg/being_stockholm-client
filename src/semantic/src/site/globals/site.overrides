@@ -462,6 +462,23 @@ h2 {
 
 
 /*******************************
+         Legend
+*******************************/
+
+ .legend-content{
+    z-index: 450 !important;
+    background-color: green !important;
+   }
+
+  .ui.bottom.sidebar {
+        height: 10px!important;
+    margin-bottom: 102px !important;
+  }
+  
+
+
+
+/*******************************
          Footer
 *******************************/
 

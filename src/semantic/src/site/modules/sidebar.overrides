@@ -1,3 +1,16 @@
 /*******************************
          Site Overrides
+           top: auto !important;
+  bottom: 0px !important;
+
 *******************************/
+
+.ui.bottom.sidebar {
+    height: 230px !important;
+  }
+
+  .ui.bottom.sidebar {
+  transform: translate3d(60%, 100%, 30%) !important;
+}
+
+  

@@ -85,6 +85,7 @@ class Footer extends Component {
           {userIcon}
 
         </Grid>
+        
       </>
     )
   }

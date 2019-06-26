@@ -40,7 +40,7 @@ class App extends Component {
 
           <MenuSidebar/>
         </Sidebar.Pushable>
-        <Footer />
+        <Footer />    
       </>
     )
   }
